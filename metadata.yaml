@@ -1,0 +1,33 @@
+_repo: Los-Caudillos-de-1830_53517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Nessi, Pío Baroja y
+    - Baroja, Pio
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53517'
+  lccn: '19001373'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Memorias de un hombre de acción, tomo 9
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spain -- History -- Ferdinand VII, 1813-1833 -- Fiction'
+- !lcsh 'Aviraneta e Ibargoyen, Eugenio de, 1792-1872 -- Fiction'
+- GITenberg
+title: Los Caudillos de 1830
+url: http://www.gutenberg.org/ebooks/53517
